@@ -1,0 +1,2 @@
+# Ads.txt file for Vedic Kundli Generator
+# High Performance Format Network / Google AdSense compatible

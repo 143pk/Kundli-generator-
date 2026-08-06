@@ -1,0 +1,6 @@
+{
+  "name": "Vedic Kundli Generator - Free Online Birth Chart",
+  "description": "Generate accurate Vedic Kundli (Janam Kundli), Lagna D1 Chart, Navamsha D9 Chart, Planetary Positions, Vimshottari Dasha, Gun Milan, and Dosha analysis for free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

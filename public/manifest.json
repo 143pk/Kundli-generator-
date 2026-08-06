@@ -1,0 +1,21 @@
+{
+  "short_name": "Vedic Kundli",
+  "name": "Vedic Kundli Generator - Online Janam Kundli",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#18181b",
+  "theme_color": "#d97706",
+  "display": "standalone",
+  "orientation": "portrait"
+}
